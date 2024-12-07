@@ -1,0 +1,15 @@
+{
+    "id": "DR-B3AA5",
+    "department": "management",
+    "reportDate": "2024-12-07",
+    "tasksCompleted": 5,
+    "pendingTasks": 2,
+    "issuesReported": 1,
+    "highlights": "Completed quarterly review ahead of schedule.",
+    "challenges": "Delayed feedback from the finance team.",
+    "nextSteps": "Prepare for the upcoming strategy meeting on December 10th.",
+    "meta": {
+        "createdBy": "john.doe",
+        "createdAt": "2024-12-07T10:00:00Z"
+    }
+}
