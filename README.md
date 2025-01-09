@@ -12,9 +12,11 @@ Dieses Repository enthält eine Docker-basierte Implementierung von Apache NiFi 
 
 - **[./examples](./examples)**  
   Übungsbeispiele zur Veranschaulichung der NiFi-Funktionalität. Darunter direkte NiFi Templates zum importieren von Flows und ausprobieren, als auch andere Dateien.
+  - **[move_files](./examples/move_files)**: Beinhaltet Template Lösung.
+  - **[department_router](./examples/department_router)**: Beinhaltet Template Lösungen und andere Dateien.
 
-<!-- - **`./docs`**  
-  Enthält Dokumentationen und weiterführende Anleitungen zur Installation, Konfiguration und Nutzung von Apache NiFi. Auch das PDF mit der vollständigen Hausarbeit und den Übungsbeschreibungen ist hier abgelegt. -->
+- **[./docs](./docs)**  
+  Enthält Dokumentationen und weiterführende Anleitungen zur Installation, Konfiguration und Nutzung von Apache NiFi. Auch das PDF mit der vollständigen Hausarbeit und den Übungsbeschreibungen ist hier abgelegt.
 
 ## Quickstart
 
@@ -29,8 +31,8 @@ Dieses Repository enthält eine Docker-basierte Implementierung von Apache NiFi 
    ```
    Der Cluster wird gestartet und ist über [http://localhost](http://localhost) erreichbar.
 
-<!-- 3. **Übungen durchführen**  
-   Die Übungsworkflows können mithilfe der bereitgestellten Beispiele unter `./examples` in der NiFi-Benutzeroberfläche nachgebaut und getestet werden. -->
+3. **Übungen durchführen**  
+   Die Übungsworkflows können mithilfe der bereitgestellten Beispiele unter `./examples` in der NiFi-Benutzeroberfläche nachgebaut und getestet werden.
 
 ## Lizenz
 
