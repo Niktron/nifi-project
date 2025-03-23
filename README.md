@@ -25,7 +25,7 @@ Dieses Repository enthält eine Docker-basierte Implementierung von Apache NiFi 
    - Mindestanforderungen an RAM und CPU sind abhängig von der Größe und Komplexität der Workflows.
 
 2. **Bereitstellung**  
-   Führe die folgenden Schritte im Ordner `docker` aus:  
+   Führe den folgenden Command im Ordner `docker` aus:  
    ```bash
    docker compose up -d
    ```
